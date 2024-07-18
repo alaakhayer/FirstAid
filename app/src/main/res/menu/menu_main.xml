@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.rouxacademy.SearchActivity">
+    <item android:id="@+id/action_emergency" android:title="@string/action_emergency"
+        android:orderInCategory="100" app:showAsAction="always" />
+    <item android:id="@+id/action_hospital" android:title="@string/action_hospital"
+        android:orderInCategory="101" app:showAsAction="always" />
+
+</menu>
