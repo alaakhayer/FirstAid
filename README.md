@@ -12,7 +12,7 @@ To install and run the First Aid App on your Android device:
 
 1. **Clone the Repository**:
    \`\`\`bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/alaakhayer/FirstAid.git
    \`\`\`
 2. **Open the Project**:
    - Open the project in Android Studio.
