@@ -1,6 +1,3 @@
-# Define the content of the README.md file
-readme_content="# First Aid App for Android Mobile Phones
-
 ## Overview
 The First Aid App is designed to provide quick and easy access to first aid information and instructions. It is an essential tool for anyone looking to be prepared for emergencies.
 
