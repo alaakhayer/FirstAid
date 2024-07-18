@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Define the content of the README.md file
 readme_content="# First Aid App for Android Mobile Phones
 
